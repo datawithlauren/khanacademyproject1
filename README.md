@@ -9,3 +9,5 @@ I have created my own store that sells groceries. The table shows a list of all 
 3. What is the average price of items in the 'food cupboard' category?
 4. What is the total amount of items sold?
 5. What are the top 5 items that bought in most sales?
+
+View query results on [Khanacademy](https://www.khanacademy.org/computer-programming/sql-project-1-design-a-store-database/4835812777181184).
